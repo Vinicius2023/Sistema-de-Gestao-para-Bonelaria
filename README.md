@@ -1,5 +1,4 @@
 # PyFantasy: Um Sistema de Gestao para uma Locadora de Roupas e Fantasias 
-
 #
 
 Universidade Federal do Rio Grande do Norte \
