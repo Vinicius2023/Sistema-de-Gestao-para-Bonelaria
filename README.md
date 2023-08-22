@@ -1,5 +1,4 @@
-# Escola de Idiomas Língua Solta
-Projeto de Sistema de Gestão para Escola de Idiomas 
+# PyFantasy: Um Sistema de Gestao para uma Locadora de Roupas e Fantasias 
 
 #
 
