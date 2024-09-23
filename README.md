@@ -1,4 +1,4 @@
-# PyFantasy: Um Sistema de Gestao para uma Locadora de Roupas e Fantasias 
+# Sig-Hat: Um Sistema de Gestao para Bonelaria
 #
 
 Universidade Federal do Rio Grande do Norte \
@@ -7,7 +7,7 @@ Departamento de Computação e Tecnologia \
 Bacharelado em Sistemas de Informação
 
 Disciplina DCT1106 - Programação \
-Developed by @flgorgonio - since Mar/2020
+Developed by @vinicius2023 - since set/2024
 
 ## PyFantasy: Um Sistema de Gestao para uma Locadora de Roupas e Fantasias
 
