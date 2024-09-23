@@ -4,7 +4,7 @@
 ///               Departamento de Computação e Tecnologia                   ///
 ///                  Disciplina DCT1106 -- Programação                      ///
 ///                  Projeto Sistema de Gestão Escolar                      ///
-///             Developed by @flgorgonio -- since Mar, 2020                 ///
+///             Developed by @vinicius2023 -- since set, 2024                 ///
 ///////////////////////////////////////////////////////////////////////////////
 ///                                Semana 2                                 ///
 ///////////////////////////////////////////////////////////////////////////////
@@ -52,7 +52,7 @@ void tela_menu_principal(void) {
     printf("///               Departamento de Computação e Tecnologia                   ///\n");
     printf("///                  Disciplina DCT1106 -- Programação                      ///\n");
     printf("///                  Projeto Sistema de Gestão Escolar                      ///\n");
-    printf("///             Developed by @flgorgonio -- since Mar, 2020                 ///\n");
+    printf("///             Developed by @vinicius2023 -- since set, 2024                 ///\n");
     printf("///                                                                         ///\n");
     printf("///////////////////////////////////////////////////////////////////////////////\n");
     printf("///                                                                         ///\n");
@@ -86,7 +86,7 @@ void tela_sobre(void) {
     printf("///               Departamento de Computação e Tecnologia                   ///\n");
     printf("///                  Disciplina DCT1106 -- Programação                      ///\n");
     printf("///                  Projeto Sistema de Gestão Escolar                      ///\n");
-    printf("///             Developed by @flgorgonio -- since Mar, 2020                 ///\n");
+    printf("///             Developed by @vinicius2023 -- since set, 2024                 ///\n");
     printf("///                                                                         ///\n");
     printf("///////////////////////////////////////////////////////////////////////////////\n");
     printf("///                                                                         ///\n");
@@ -115,7 +115,7 @@ void tela_equipe(void) {
     printf("///               Departamento de Computação e Tecnologia                   ///\n");
     printf("///                  Disciplina DCT1106 -- Programação                      ///\n");
     printf("///                  Projeto Sistema de Gestão Escolar                      ///\n");
-    printf("///             Developed by @flgorgonio -- since Mar, 2020                 ///\n");
+    printf("///             Developed by @vinicius2023 -- since set, 2024               ///\n");
     printf("///                                                                         ///\n");
     printf("///////////////////////////////////////////////////////////////////////////////\n");
     printf("///                                                                         ///\n");
@@ -123,10 +123,9 @@ void tela_equipe(void) {
     printf("///                                                                         ///\n");
     printf("///            Este projeto exemplo foi desenvolvido por:                   ///\n");
     printf("///                                                                         ///\n");
-    printf("///            Prof. Flavius Gorgônio                                       ///\n");
-    printf("///            E-mail: flavius.gorgonio@ufrn.br                             ///\n");
-    printf("///            Redes sociais: @flgorgonio                                   ///\n");
-    printf("///            Git: https://github.com/FlaviusGorgonio/LinguaSolta.git      ///\n");
+    printf("///            Prof. Vinicius Alan                                          ///\n");
+    printf("///            E-mail: vinicius.alan.125o@ufrn.edu.br                       ///\n");
+    printf("///            Git: https://github.com/Vinicius2023/Sistema-de-Gestao-para-Bonelaria.git      ///\n");
     printf("///                                                                         ///\n");
     printf("///////////////////////////////////////////////////////////////////////////////\n");
     printf("\n");
@@ -146,7 +145,7 @@ void tela_menu_aluno(void) {
     printf("///            = = = =   Escola de Idiomas Língua Solta    = = = =          ///\n");
     printf("///            = = = = = = = = = = = = = = = = = = = = = = = = = =          ///\n");
     printf("///            ===================================================          ///\n");
-    printf("///               Developed by @flgorgonio -- since Mar, 2020               ///\n");
+    printf("///               Developed by @vinicius2023 -- since set, 2024               ///\n");
     printf("///                                                                         ///\n");
     printf("///////////////////////////////////////////////////////////////////////////////\n");
     printf("///                                                                         ///\n");
@@ -182,7 +181,7 @@ void tela_cadastrar_aluno(void) {
     printf("///            = = = =   Escola de Idiomas Língua Solta    = = = =          ///\n");
     printf("///            = = = = = = = = = = = = = = = = = = = = = = = = = =          ///\n");
     printf("///            ===================================================          ///\n");
-    printf("///               Developed by @flgorgonio -- since Mar, 2020               ///\n");
+    printf("///               Developed by @vinicius2023 -- since set, 2024               ///\n");
     printf("///                                                                         ///\n");
     printf("///////////////////////////////////////////////////////////////////////////////\n");
     printf("///                                                                         ///\n");
@@ -214,7 +213,7 @@ void tela_pesquisar_aluno(void) {
     printf("///            = = = =   Escola de Idiomas Língua Solta    = = = =          ///\n");
     printf("///            = = = = = = = = = = = = = = = = = = = = = = = = = =          ///\n");
     printf("///            ===================================================          ///\n");
-    printf("///               Developed by @flgorgonio -- since Mar, 2020               ///\n");
+    printf("///               Developed by @vinicius2023 -- since set, 2024               ///\n");
     printf("///                                                                         ///\n");
     printf("///////////////////////////////////////////////////////////////////////////////\n");
     printf("///                                                                         ///\n");
@@ -242,7 +241,7 @@ void tela_alterar_aluno(void) {
     printf("///            = = = =   Escola de Idiomas Língua Solta    = = = =          ///\n");
     printf("///            = = = = = = = = = = = = = = = = = = = = = = = = = =          ///\n");
     printf("///            ===================================================          ///\n");
-    printf("///               Developed by @flgorgonio -- since Mar, 2020               ///\n");
+    printf("///               Developed by @vinicius2023 -- since set, 2024               ///\n");
     printf("///                                                                         ///\n");
     printf("///////////////////////////////////////////////////////////////////////////////\n");
     printf("///                                                                         ///\n");
@@ -270,7 +269,7 @@ void tela_excluir_aluno(void) {
     printf("///            = = = =   Escola de Idiomas Língua Solta    = = = =          ///\n");
     printf("///            = = = = = = = = = = = = = = = = = = = = = = = = = =          ///\n");
     printf("///            ===================================================          ///\n");
-    printf("///               Developed by @flgorgonio -- since Mar, 2020               ///\n");
+    printf("///               Developed by @vinicius2023 -- since set, 2024               ///\n");
     printf("///                                                                         ///\n");
     printf("///////////////////////////////////////////////////////////////////////////////\n");
     printf("///                                                                         ///\n");
