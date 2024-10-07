@@ -4,7 +4,7 @@
 ///               Departamento de Computação e Tecnologia                   ///
 ///                  Disciplina DCT1106 -- Programação                      ///
 ///                  Projeto Sistema de Gestão Escolar                      ///
-///             Developed by @vinicius2023 -- since set, 2024                 ///
+///             Developed by @vinicius2023 -- since set, 2024               ///
 ///////////////////////////////////////////////////////////////////////////////
 ///                                Semana 2                                 ///
 ///////////////////////////////////////////////////////////////////////////////
@@ -213,7 +213,7 @@ void tela_pesquisar_aluno(void) {
     printf("///            = = = =          Sistema de Bonelaria       = = = =          ///\n");
     printf("///            = = = = = = = = = = = = = = = = = = = = = = = = = =          ///\n");
     printf("///            ===================================================          ///\n");
-    printf("///               Developed by @vinicius2023 -- since set, 2024               ///\n");
+    printf("///               Developed by @vinicius2023 -- since set, 2024             ///\n");
     printf("///                                                                         ///\n");
     printf("///////////////////////////////////////////////////////////////////////////////\n");
     printf("///                                                                         ///\n");
@@ -269,7 +269,7 @@ void tela_excluir_aluno(void) {
     printf("///            = = = =         Sistema de Bonelaria        = = = =          ///\n");
     printf("///            = = = = = = = = = = = = = = = = = = = = = = = = = =          ///\n");
     printf("///            ===================================================          ///\n");
-    printf("///               Developed by @vinicius2023 -- since set, 2024               ///\n");
+    printf("///               Developed by @vinicius2023 -- since set, 2024             ///\n");
     printf("///                                                                         ///\n");
     printf("///////////////////////////////////////////////////////////////////////////////\n");
     printf("///                                                                         ///\n");
