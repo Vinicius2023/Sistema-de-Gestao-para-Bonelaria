@@ -86,7 +86,7 @@ void tela_sobre(void) {
     printf("///               Departamento de Computação e Tecnologia                   ///\n");
     printf("///                  Disciplina DCT1106 -- Programação                      ///\n");
     printf("///                  Projeto Sistema de Gestão Escolar                      ///\n");
-    printf("///             Developed by @vinicius2023 -- since set, 2024                 ///\n");
+    printf("///             Developed by @vinicius2023 -- since set, 2024               ///\n");
     printf("///                                                                         ///\n");
     printf("///////////////////////////////////////////////////////////////////////////////\n");
     printf("///                                                                         ///\n");
@@ -186,10 +186,10 @@ void tela_cadastrar_aluno(void) {
     printf("///////////////////////////////////////////////////////////////////////////////\n");
     printf("///                                                                         ///\n");
     printf("///            = = = = = = = = = = = = = = = = = = = = = = = =              ///\n");
-    printf("///            = = = = = = = = Cadastrar Bone = = = = = = = =              ///\n");
+    printf("///            = = = = = = = = Cadastrar Bone = = = = = = = =               ///\n");
     printf("///            = = = = = = = = = = = = = = = = = = = = = = = =              ///\n");
     printf("///                                                                         ///\n");
-    printf("///            Modelo (apenas números):                             ///\n");
+    printf("///            Modelo (apenas números):                                     ///\n");
     printf("///            Nome completo:                                               ///\n");
     printf("///            E-mail:                                                      ///\n");
     printf("///            Data de Nascimento (dd/mm/aaaa):                             ///\n");
