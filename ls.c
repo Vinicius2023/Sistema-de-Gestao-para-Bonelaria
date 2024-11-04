@@ -246,7 +246,7 @@ void tela_alterar_aluno(void) {
     printf("///////////////////////////////////////////////////////////////////////////////\n");
     printf("///                                                                         ///\n");
     printf("///            = = = = = = = = = = = = = = = = = = = = = = = =              ///\n");
-    printf("///            = = = = = = = = Alterar Bone = = = = = = = = =               ///\n");
+    printf("///            = = = = = = = = Atualizar Bone = = = = = = = = =             ///\n");
     printf("///            = = = = = = = = = = = = = = = = = = = = = = = =              ///\n");
     printf("///                                                                         ///\n");
     printf("///            Informe o modelo (apenas números):                           ///\n");
